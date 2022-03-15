@@ -8,7 +8,7 @@ setup(
   author = 'EHVA inc.',                   # Type in your name
   author_email = 'info@ehva.ca',      # Type in your E-Mail
   url = 'https://github.com/EHVAAutomation/ehva-python',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/EHVAAutomation/ehva-python/archive/refs/tags/v0.2.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/EHVAAutomation/ehva-python/archive/refs/tags/v0.3.tar.gz',    # I explain this later on
   keywords = ['EHVA'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
