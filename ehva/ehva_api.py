@@ -65,17 +65,17 @@ class EhvaApi:
 
     @property
     def circuits(self):
-        """ Returns a list of all dies """
+        """ Returns a list of all circuits """
         return self._perform_get("/components/circuits")
 
     @property
     def optical_ports(self):
-        """ Returns a list of all dies """
+        """ Returns a list of all optical ports """
         return self._perform_get("/components/opticalports")
 
     @property
     def electrical_ports(self):
-        """ Returns a list of all dies """
+        """ Returns a list of all electrical ports """
         return self._perform_get("/components/electricalports")
 
     @property
@@ -85,7 +85,7 @@ class EhvaApi:
 
     @property
     def measurement_sequences(self):
-        """ Returns a list of all station configs """
+        """ Returns a list of all station measurement sequences """
         return self._perform_get("/measurementsequences")
 
 
