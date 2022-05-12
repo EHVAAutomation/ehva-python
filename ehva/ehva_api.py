@@ -85,7 +85,7 @@ class EhvaApi:
 
     @property
     def measurement_sequences(self):
-        """ Returns a list of all station measurement sequences """
+        """ Returns a list of all measurement sequences """
         return self._perform_get("/measurementsequences")
 
 
