@@ -1,25 +1,25 @@
 repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
-      rev: "1ca4ceba9609a60c79160b461f7336aa615e4813"
+      rev: "974bb4de56a6f5da690a64709a864a7d554b7c14"
       hooks:
           - id: check-yaml
           - id: end-of-file-fixer
           - id: trailing-whitespace
 
     - repo: https://github.com/hakancelik96/unimport
-      rev: 0.9.2
+      rev: 59883a2d8805b533fb06fc28923f07bc1f377f4a
       hooks:
           - id: unimport
             args: [--remove, --include-star-import]
     - repo: https://github.com/pycqa/isort
-      rev: "24c98ec4a3c826b44f4d7b06ebfe09a485d2fbcf"
+      rev: "f82ecc96e0a6bbebdea4431d99aed8c9855e94ae"
       hooks:
           - id: isort
             files: "ehva/.*"
             args: ["--profile", "black", "--filter-files"]
 
     - repo: https://github.com/psf/black
-      rev: "3b2a7d196bc1984aed194cca26a7900968ce4409"
+      rev: "7f033136ac5e0e5bf6cf322dd60b4a92050eedc4"
       hooks:
           - id: black
 
@@ -29,7 +29,7 @@ repos:
           - id: flake8
 
     - repo: https://github.com/kynan/nbstripout
-      rev: 3843f5f7c586fa6f0df81423f35d52e6af8e3039
+      rev: 8cafdcc393232045208137698dbeb42d6e0dd9e8
       hooks:
           - id: nbstripout
             files: ".ipynb"

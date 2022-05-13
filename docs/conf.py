@@ -1,5 +1,3 @@
-from recommonmark.transform import AutoStructify
-
 project = "ehva"
 version = "0.0.3"
 copyright = "2020, ehva"

@@ -8,5 +8,3 @@ ehva
     README
     markdown
     rst
-
-
