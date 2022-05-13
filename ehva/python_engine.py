@@ -1,8 +1,7 @@
+""" Ehva Module """
 import base64
 import json
 import sys
-
-""" Ehva Module """
 
 
 def parse_inputs():

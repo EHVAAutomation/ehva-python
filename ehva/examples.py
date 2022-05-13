@@ -1,4 +1,4 @@
-from ehva_api import EhvaApi
+from ehva.ehva_api import EhvaApi
 
 API_KEY = "584721"
 URL = "https://localhost:5001"
