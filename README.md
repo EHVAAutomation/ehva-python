@@ -1,4 +1,4 @@
-# ehva-python
+# ehva-python 0.0.3
 A package to integrate python scripts to the [EHVA App](https://ehva.ca).
 
 ## Requirements
