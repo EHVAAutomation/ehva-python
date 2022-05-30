@@ -1,5 +1,5 @@
-<img src="./docs/EHVA_LOGO_complet-dark -- trimmed.png#gh-light-mode-only" align="right" height="150"/>
-<img src="./docs/EHVA_LOGO_complet-light -- trimmed.png#gh-dark-mode-only" align="right" height="150"/>
+<img src="./docs/EHVA_LOGO_complet-dark -- trimmed.png#gh-light-mode-only" align="right" height="100"/>
+<img src="./docs/EHVA_LOGO_complet-light -- trimmed.png#gh-dark-mode-only" align="right" height="100"/>
 
 # ehva-python
 
