@@ -1,4 +1,9 @@
-# ehva-python 0.0.3
+<h1>
+
+<img src="./docs/EHVA_LOGO_complet-dark.svg#gh-light-mode-only" align="right" height="350" />
+<img src="./docs/EHVA_LOGO_complet-light.svg#gh-dark-mode-only" align="right" height="100" width="200" overflow="hidden" />
+    ehva-python 0.0.3
+<h1>
 A package to integrate python scripts to the [EHVA App](https://ehva.ca).
 
 ## Requirements
